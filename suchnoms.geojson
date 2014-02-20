@@ -1,6 +1,5 @@
 { "type": "FeatureCollection",
   "features": [
-
     { "type": "Feature", 
       "properties": {
         "Name": "TabbedOut Offices",
@@ -11,7 +10,6 @@
         "type": "Point", 
         "coordinates": [ -97.7571790, 30.2726430 ]
       } 
-    },
-
+    }
   ]
 }
