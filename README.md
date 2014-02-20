@@ -1,6 +1,7 @@
 ripley
 ======
-!(http://img.gawkerassets.com/img/193wi15clx5irjpg/ku-xlarge.jpg)
+![The Stomach Burster](http://img.gawkerassets.com/img/193wi15clx5irjpg/ku-xlarge.jpg)
+
 "The stomach burster." All of the best places to eat near the TabbedOut office. 
 
 Resources
