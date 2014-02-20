@@ -21,7 +21,7 @@ Pretty simple stuff, mostly fill in the blank.
       "properties": {
         "Name": "<<<< NAME OF RESTAURANT >>>>",
         "Address": "Numbers and letters that normal people use to locate stuff on the map",
-        "Walkable / Driveable": "Time it takes to do said thing",
+        "Walkable [OR] Driveable <-- choose one": "Time it takes to do said thing",
         "marker-symbol": "restaurant or beer - you pick, I trust you know which to use"
       }, 
       "geometry": { 
