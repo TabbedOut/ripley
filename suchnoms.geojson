@@ -28,7 +28,7 @@
         "Name": "Winflo Osteria",
         "Address": "1315 W 6th St. ",
         "Walkable": "5 min.",
-        "marker-symbol": "beer"
+        "marker-symbol": "restaurant"
       }, 
       "geometry": { 
         "type": "Point", 
