@@ -10,6 +10,18 @@
         "type": "Point", 
         "coordinates": [ -97.7571790, 30.2726430 ]
       } 
+    },
+    { "type": "Feature", 
+      "properties": {
+        "Name": "Tacos and Tequila",
+        "Address": "507 Pressler St.",
+        "Walkable": "6 min.",
+        "marker-symbol": "restaurant"
+      }, 
+      "geometry": { 
+        "type": "Point", 
+        "coordinates": [ -97.7607629, 30.2727807 ]
+      } 
     }
   ]
 }
