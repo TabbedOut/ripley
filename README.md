@@ -17,7 +17,7 @@ Pretty simple stuff, mostly fill in the blank.
 
 1) Add a new feature to the collection with this template:
 	
-	    { "type": "Feature", 
+	{ "type": "Feature", 
       "properties": {
         "Name": "Winflo Osteria",
         "Address": "1315 W 6th St. ",
