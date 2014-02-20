@@ -19,14 +19,14 @@ Pretty simple stuff, mostly fill in the blank.
 	
 	{ "type": "Feature", 
       "properties": {
-        "Name": "Winflo Osteria",
-        "Address": "1315 W 6th St. ",
-        "Walkable": "5 min.",
-        "marker-symbol": "restaurant"
+        "Name": "<<<< NAME OF RESTAURANT >>>>",
+        "Address": "Numbers and letters that normal people use to locate stuff on the map",
+        "Walkable / Driveable": "Time it takes to do said thing",
+        "marker-symbol": "restaurant or beer - you pick, I trust you know which to use"
       }, 
       "geometry": { 
         "type": "Point", 
-        "coordinates": [ -97.7599382, 30.2736973 ]
+        "coordinates": [ -97.7599382, 30.2736973 <-- get these from the things above ]
       } 
     }
 
