@@ -7,7 +7,7 @@
 ---
 name: The Texas Tribune
 coordinates: 30.27045435, -97.7414384914151
-fill: #ffc200
+marker-color: '#ffc200'
 marker-symbol: commercial
 ---
 name: Athenian
@@ -19,11 +19,6 @@ name: Austin Java
 price: $$
 coordinates: 30.264931, -97.746858
 marker-symbol: restaurant
----
-name: Jimmy John's
-price: $
-coordinates: 30.270792, -97.742244
-marker-symbol: fast-food
 ---
 name: Clay Pit
 price: $
@@ -51,6 +46,11 @@ url: http://hotdogscoldbeer.com/austin/specials/
 coordinates: 30.266982, -97.744510
 marker-symbol: restaurant
 ---
+name: Jimmy John's
+price: $
+coordinates: 30.270792, -97.742244
+marker-symbol: fast-food
+---
 name: Jo's
 price: $$
 coordinates: 30.265006, -97.746042
@@ -69,6 +69,11 @@ marker-symbol: restaurant
 name: Lambert's
 price: $$$
 coordinates: 30.265172, -97.747915
+marker-symbol: restaurant
+---
+name: Mama Fu's
+price: $$
+coordinates: 30.264001, -97.746013
 marker-symbol: restaurant
 ---
 name: Perry's Steakhouse

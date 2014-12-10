@@ -35,7 +35,7 @@ def geojsonize(path):
         # filter and load into memory so the file can be closed
         docs = [x for x in docs if 'coordinates' in x]
     data = format_geojson_from_docs(docs)
-    print(json.dumps(data))
+    print(json.dumps(data, indent=2))
 
 
 def geocode(address):
