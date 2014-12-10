@@ -1,397 +1,397 @@
 {
+  "type": "FeatureCollections",
   "features": [
     {
       "properties": {
-        "marker-symbol": "commercial",
         "name": "The Texas Tribune",
+        "marker-symbol": "commercial",
         "marker-color": "#ffc200"
       },
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "-97.7414384914151",
           "30.27045435"
-        ],
-        "type": "Point"
+        ]
       },
       "type": "Feature"
     },
     {
       "properties": {
-        "marker-symbol": "restaurant",
         "name": "Athenian",
+        "marker-symbol": "restaurant",
         "price": "$$"
       },
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "-97.743554",
           "30.268433"
-        ],
-        "type": "Point"
+        ]
       },
       "type": "Feature"
     },
     {
       "properties": {
-        "marker-symbol": "restaurant",
         "name": "Austin Java",
+        "marker-symbol": "restaurant",
         "price": "$$"
       },
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "-97.746858",
           "30.264931"
-        ],
-        "type": "Point"
+        ]
       },
       "type": "Feature"
     },
     {
       "properties": {
-        "marker-symbol": "restaurant",
         "name": "Clay Pit",
+        "marker-symbol": "restaurant",
         "price": "$"
       },
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "-97.742427",
           "30.278967"
-        ],
-        "type": "Point"
+        ]
       },
       "type": "Feature"
     },
     {
       "properties": {
-        "marker-symbol": "fast-food",
         "name": "Chipotle",
+        "marker-symbol": "fast-food",
         "price": "$"
       },
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "-97.741854",
           "30.270029"
-        ],
-        "type": "Point"
+        ]
       },
       "type": "Feature"
     },
     {
       "properties": {
-        "marker-symbol": "restaurant",
         "name": "Daruma Ramen",
+        "marker-symbol": "restaurant",
         "price": "$$"
       },
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "-97.736473",
           "30.266467"
-        ],
-        "type": "Point"
+        ]
       },
       "type": "Feature"
     },
     {
       "properties": {
-        "marker-symbol": "beer",
         "name": "EZ Tiger",
+        "marker-symbol": "beer",
         "price": "$$"
       },
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "-97.735663",
           "30.265906"
-        ],
-        "type": "Point"
+        ]
       },
       "type": "Feature"
     },
     {
       "properties": {
-        "marker-symbol": "restaurant",
         "name": "Frank",
         "url": "http://hotdogscoldbeer.com/austin/specials/",
-        "price": "$$$"
+        "price": "$$$",
+        "marker-symbol": "restaurant"
       },
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "-97.744510",
           "30.266982"
-        ],
-        "type": "Point"
+        ]
       },
       "type": "Feature"
     },
     {
       "properties": {
-        "marker-symbol": "fast-food",
         "name": "Jimmy John's",
+        "marker-symbol": "fast-food",
         "price": "$"
       },
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "-97.742244",
           "30.270792"
-        ],
-        "type": "Point"
+        ]
       },
       "type": "Feature"
     },
     {
       "properties": {
-        "marker-symbol": "restaurant",
         "name": "Jo's",
+        "marker-symbol": "restaurant",
         "price": "$$"
       },
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "-97.746042",
           "30.265006"
-        ],
-        "type": "Point"
+        ]
       },
       "type": "Feature"
     },
     {
       "properties": {
-        "marker-symbol": "fast-food",
         "name": "Kebebalicious",
+        "marker-symbol": "fast-food",
         "price": "$"
       },
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "-97.742385",
           "30.268845"
-        ],
-        "type": "Point"
+        ]
       },
       "type": "Feature"
     },
     {
       "properties": {
-        "marker-symbol": "restaurant",
         "name": "Koriente",
+        "marker-symbol": "restaurant",
         "price": "$$"
       },
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "-97.736011",
           "30.267046"
-        ],
-        "type": "Point"
+        ]
       },
       "type": "Feature"
     },
     {
       "properties": {
-        "marker-symbol": "restaurant",
         "name": "Lambert's",
+        "marker-symbol": "restaurant",
         "price": "$$$"
       },
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "-97.747915",
           "30.265172"
-        ],
-        "type": "Point"
+        ]
       },
       "type": "Feature"
     },
     {
       "properties": {
-        "marker-symbol": "restaurant",
         "name": "Mama Fu's",
+        "marker-symbol": "restaurant",
         "price": "$$"
       },
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "-97.746013",
           "30.264001"
-        ],
-        "type": "Point"
+        ]
       },
       "type": "Feature"
     },
     {
       "properties": {
-        "marker-symbol": "restaurant",
         "name": "Perry's Steakhouse",
+        "marker-symbol": "restaurant",
         "price": "$$"
       },
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "-97.743490",
           "30.269443"
-        ],
-        "type": "Point"
+        ]
       },
       "type": "Feature"
     },
     {
       "properties": {
-        "marker-symbol": "fast-food",
         "name": "Quiznos",
+        "marker-symbol": "fast-food",
         "price": "$"
       },
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "-97.741679",
           "30.271713"
-        ],
-        "type": "Point"
+        ]
       },
       "type": "Feature"
     },
     {
       "properties": {
-        "marker-symbol": "restaurant",
         "name": "Roaring Fork",
+        "marker-symbol": "restaurant",
         "price": "$$$"
       },
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "-97.742199",
           "30.269112"
-        ],
-        "type": "Point"
+        ]
       },
       "type": "Feature"
     },
     {
       "properties": {
-        "marker-symbol": "grocery",
         "name": "Royal Blue Grocery",
+        "marker-symbol": "grocery",
         "price": "$$"
       },
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "-97.742473",
           "30.268389"
-        ],
-        "type": "Point"
+        ]
       },
       "type": "Feature"
     },
     {
       "properties": {
-        "marker-symbol": "fast-food",
         "name": "Slake",
+        "marker-symbol": "fast-food",
         "price": "$$"
       },
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "-97.741373",
           "30.268834"
-        ],
-        "type": "Point"
+        ]
       },
       "type": "Feature"
     },
     {
       "properties": {
-        "marker-symbol": "restaurant",
         "name": "St. David's",
+        "marker-symbol": "restaurant",
         "price": "$"
       },
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "-97.739216",
           "30.268414"
-        ],
-        "type": "Point"
+        ]
       },
       "type": "Feature"
     },
     {
       "properties": {
-        "marker-symbol": "restaurant",
         "name": "Texas Chili Parlor",
+        "marker-symbol": "restaurant",
         "price": "$$"
       },
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "-97.741971",
           "30.277003"
-        ],
-        "type": "Point"
+        ]
       },
       "type": "Feature"
     },
     {
       "properties": {
-        "marker-symbol": "fast-food",
         "name": "Thundercloud Subs",
         "url": "http://thundercloud.com/",
-        "price": "$"
+        "price": "$",
+        "marker-symbol": "fast-food"
       },
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "-97.749378",
           "30.267528"
-        ],
-        "type": "Point"
+        ]
       },
       "type": "Feature"
     },
     {
       "properties": {
-        "marker-symbol": "fast-food",
         "name": "Turn N Surf",
+        "marker-symbol": "fast-food",
         "price": "$$"
       },
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "-97.745593",
           "30.267206"
-        ],
-        "type": "Point"
+        ]
       },
       "type": "Feature"
     },
     {
       "properties": {
-        "marker-symbol": "grocery",
         "name": "Whole Foods",
+        "marker-symbol": "grocery",
         "price": "$$"
       },
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "-97.753377",
           "30.270855"
-        ],
-        "type": "Point"
+        ]
       },
       "type": "Feature"
     },
     {
       "properties": {
-        "marker-symbol": "fast-food",
         "name": "Wholly cow Burgers",
+        "marker-symbol": "fast-food",
         "price": "$$"
       },
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "-97.742355",
           "30.268688"
-        ],
-        "type": "Point"
+        ]
       },
       "type": "Feature"
     },
     {
       "properties": {
-        "marker-symbol": "restaurant",
         "name": "Valentina's Tex Mex BBQ",
+        "marker-symbol": "restaurant",
         "price": "$$"
       },
       "geometry": {
+        "type": "Point",
         "coordinates": [
           "-97.748495",
           "30.270016"
-        ],
-        "type": "Point"
+        ]
       },
       "type": "Feature"
     }
-  ],
-  "type": "FeatureCollections"
+  ]
 }

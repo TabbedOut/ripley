@@ -2,6 +2,7 @@
 """
 Usage: ./geocities.py [<yaml_file> | <address>]
 """
+from collections import OrderedDict
 import json
 import os
 import sys
@@ -16,7 +17,7 @@ def format_geojson_from_docs(docs):
         'features': []
     }
     for doc in docs:
-        data = doc.copy()  # don't modify original for some reason
+        data = OrderedDict(doc)
         coordinates = data.pop('coordinates')
         out['features'].append({
             'type': 'Feature',
