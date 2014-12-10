@@ -1,0 +1,45 @@
+# marker-symbol: https://www.mapbox.com/maki/
+---
+name: The Texas Tribune
+coordinates: 30.27045435, -97.7414384914151
+marker-symbol: commercial
+---
+name: Quiznos
+coordinates: 30.271713, -97.741679
+marker-symbol: fast-food
+---
+name: Jimmy John's
+coordinates: 30.270792, -97.742244
+marker-symbol: fast-food
+---
+name: Texas Chili Parlor
+coordinates: 30.277003, -97.741971
+marker-symbol: restaurant
+---
+name: The Clay Pit
+coordinates: 30.278967, -97.742427
+marker-symbol: restaurant
+---
+name: Chipotle
+coordinates: 30.270029, -97.741854
+marker-symbol: fast-food
+---
+name: Kebebalicious
+coordinates: 30.268845, -97.742385
+marker-symbol: fast-food
+---
+name: Wholly cow Burgers
+coordinates: 30.268688, -97.742355
+marker-symbol: fast-food
+---
+name: Royal Blue Grocery
+coordinates: 30.268389, -97.742473
+marker-symbol: grocery
+---
+name: Perry's Steakhouse
+coordinates: 30.269443, -97.743490
+marker-symbol: restaurant
+---
+name: Athenian
+coordinates: 30.268433, -97.743554
+marker-symbol: restaurant
