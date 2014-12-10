@@ -7,7 +7,7 @@
 ---
 name: The Texas Tribune
 coordinates: 30.27045435, -97.7414384914151
-marker-color: #ffc200
+fill: #ffc200
 marker-symbol: commercial
 ---
 name: Athenian
@@ -81,6 +81,11 @@ price: $
 coordinates: 30.271713, -97.741679
 marker-symbol: fast-food
 ---
+name: Roaring Fork
+price: $$$
+coordinates: 30.269112, -97.742199
+marker-symbol: restaurant
+---
 name: Royal Blue Grocery
 price: $$
 coordinates: 30.268389, -97.742473
@@ -90,6 +95,11 @@ name: Slake
 price: $$
 coordinates: 30.268834, -97.741373
 marker-symbol: fast-food
+---
+name: St. David's
+price: $
+coordinates: 30.268414, -97.739216
+marker-symbol: restaurant
 ---
 name: Texas Chili Parlor
 price: $$
@@ -106,6 +116,11 @@ name: Turn N Surf
 price: $$
 coordinates: 30.267206, -97.745593
 marker-symbol: fast-food
+---
+name: Whole Foods
+price: $$
+coordinates: 30.270855, -97.753377
+marker-symbol: grocery
 ---
 name: Wholly cow Burgers
 price: $$
