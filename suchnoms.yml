@@ -20,6 +20,11 @@ price: $$
 coordinates: 30.264931, -97.746858
 marker-symbol: restaurant
 ---
+name: Le Café Crêpe
+price: $$
+coordinates: 30.263842, -97.741907
+marker-symbol: restaurant
+---
 name: Clay Pit
 price: $
 coordinates: 30.278967, -97.742427
@@ -95,6 +100,11 @@ name: Royal Blue Grocery
 price: $$
 coordinates: 30.268389, -97.742473
 marker-symbol: grocery
+---
+name: Second Bar + Kitchen
+price: $$$
+coordinates: 30.264554, -97.744392
+marker-symbol: restaurant
 ---
 name: Slake
 price: $$
