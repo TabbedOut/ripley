@@ -29,6 +29,7 @@ def format_geojson_from_docs(docs):
     return out
 
 
+# DEPRECATED in favor of ruby version
 def geojsonize(path):
     with open(path) as fp:
         docs = yaml.load_all(fp)
