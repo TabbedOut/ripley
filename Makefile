@@ -1,5 +1,5 @@
 build:
-	python geocities.py suchnoms.yml > suchnoms.geojson
+	ruby ripley.rb > suchnoms.geojson
 
 # If you don't have inotify-tools, install it first: `apt-get install inotify-tools`
 watch:
