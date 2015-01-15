@@ -3,24 +3,24 @@ require 'yaml'
 
 
 def format_geojson_from_docs(docs)
-    out = {
-        type: 'FeatureCollections',
-        features: [],
-    }
-    docs.each {|doc|
-        coordinates = doc.delete('coordinates')
-        if coordinates
-            out[:features].push({
-                type: 'Feature',
-                properties: doc,
-                geometry: {
-                    type: 'Point',
-                    coordinates: coordinates.split(', ').reverse,
-                },
-            })
-        end
-        }
-    out
+  out = {
+    type: 'FeatureCollections',
+    features: [],
+  }
+  docs.each do |doc|
+    coordinates = doc.delete 'coordinates'
+    if coordinates
+      out[:features].push(
+        type: 'Feature',
+        properties: doc,
+        geometry: {
+          type: 'Point',
+          coordinates: coordinates.split(', ').reverse,
+        },
+      )
+    end
+  end
+  out
 end
 
 
