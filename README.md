@@ -17,7 +17,7 @@ Instructions
    add the same place twice please).
 2. Update the geojson file:
 
-        ./geocities.py suchnoms.yml > suchnoms.geojson
+        make build
 
 FAQ
 ===
