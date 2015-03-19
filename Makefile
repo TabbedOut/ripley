@@ -1,5 +1,5 @@
 build:
-	ruby ripley.rb > suchnoms.geojson
+	ruby ripley.rb | jsonpp > suchnoms.geojson
 
 # If you don't have inotify-tools, install it first: `apt-get install inotify-tools`
 watch:

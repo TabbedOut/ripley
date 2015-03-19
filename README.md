@@ -30,3 +30,11 @@ What's your favorite place to eat?
 Why is the script written in Python? Python 3 in fact.
 
 > Shutup, it's the future! It'll work in Python 2 too.
+
+
+Requirements
+============
+
+- Ruby
+- jsonpp
+- Python?
