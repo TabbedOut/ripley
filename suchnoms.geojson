@@ -20,17 +20,60 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Tacos and Tequila",
+        "name": "24 Diner",
         "price": "$$",
-        "address": "507 Pressler St.",
-        "url": "http://tacos-and-tequila.com/food/",
         "marker-symbol": "restaurant"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-97.7607629",
-          "30.2727807"
+          "-97.754149",
+          "30.272040"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Athenian",
+        "price": "$$",
+        "marker-symbol": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.743554",
+          "30.268433"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bacon",
+        "price": "$$",
+        "marker-symbol": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.751687",
+          "30.275006"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Counter Cafe",
+        "price": "$$",
+        "marker-symbol": "fast-food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.753656",
+          "30.272587"
         ]
       }
     },
@@ -53,6 +96,36 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Fresa's",
+        "price": "$$",
+        "marker-symbol": "fast-food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.752202",
+          "30.274473"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hut's Hamburgers",
+        "price": "$",
+        "marker-symbol": "fast-food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.751165",
+          "30.270259"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Lambert's",
         "price": "$$$",
         "marker-symbol": "restaurant"
@@ -62,6 +135,156 @@
         "coordinates": [
           "-97.747915",
           "30.265172"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lucky's Puccias (trailer)",
+        "price": "$",
+        "marker-symbol": "fast-food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.752708",
+          "30.269575"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "One Taco",
+        "price": "$",
+        "marker-symbol": "fast-food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.748198",
+          "30.269775"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shoal Creek Saloon",
+        "marker-symbol": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.752309",
+          "30.274297"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sushi Zushi",
+        "marker-symbol": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.764370",
+          "30.274152"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Swedish Hill",
+        "price": "$",
+        "marker-symbol": "baker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.756443",
+          "30.272702"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tacos and Tequila",
+        "price": "$$",
+        "address": "507 Pressler St.",
+        "url": "http://tacos-and-tequila.com/food/",
+        "marker-symbol": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.7607629",
+          "30.2727807"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ThunderCloud",
+        "price": "$",
+        "marker-symbol": "fast-food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.749461",
+          "30.267347"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Turf N Surf",
+        "price": "$$",
+        "marker-symbol": "fast-food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.745593",
+          "30.267206"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wahoo's",
+        "price": "$",
+        "marker-symbol": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.749494",
+          "30.269584"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Walton's",
+        "price": "$$",
+        "marker-symbol": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.748999",
+          "30.269647"
         ]
       }
     },
@@ -93,6 +316,21 @@
         "coordinates": [
           "-97.748495",
           "30.270016"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Z'Tejas",
+        "price": "$$",
+        "marker-symbol": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.756055",
+          "30.272563"
         ]
       }
     },

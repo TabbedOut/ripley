@@ -11,12 +11,25 @@ coordinates: 30.272377, -97.757662
 marker-symbol: rocket
 marker-color: '#4db6ac'
 ---
-name: Tacos and Tequila
+name: 24 Diner
 price: $$
-address: "507 Pressler St."
-url: http://tacos-and-tequila.com/food/
-coordinates: 30.2727807, -97.7607629
+coordinates: 30.272040, -97.754149
 marker-symbol: restaurant
+---
+name: Athenian
+price: $$
+coordinates: 30.268433, -97.743554
+marker-symbol: restaurant
+---
+name: Bacon
+price: $$
+coordinates: 30.275006, -97.751687
+marker-symbol: restaurant
+---
+name: Counter Cafe
+price: $$
+coordinates: 30.272587, -97.753656
+marker-symbol: fast-food
 ---
 name: Frank
 price: $$$
@@ -24,9 +37,69 @@ url: http://hotdogscoldbeer.com/austin/specials/
 coordinates: 30.266982, -97.744510
 marker-symbol: restaurant
 ---
+name: Fresa's
+price: $$
+coordinates: 30.274473, -97.752202
+marker-symbol: fast-food
+---
+name: Hut's Hamburgers
+price: $
+coordinates: 30.270259, -97.751165
+marker-symbol: fast-food
+---
 name: Lambert's
 price: $$$
 coordinates: 30.265172, -97.747915
+marker-symbol: restaurant
+---
+name: Lucky's Puccias (trailer)
+price: $
+coordinates: 30.269575, -97.752708
+marker-symbol: fast-food
+---
+name: One Taco
+price: $
+coordinates: 30.269775, -97.748198
+marker-symbol: fast-food
+---
+name: Shoal Creek Saloon
+coordinates: 30.274297, -97.752309
+marker-symbol: restaurant
+---
+name: Sushi Zushi
+coordinates: 30.274152, -97.764370
+marker-symbol: restaurant
+---
+name: Swedish Hill
+price: $
+coordinates: 30.272702, -97.756443
+marker-symbol: baker
+---
+name: Tacos and Tequila
+price: $$
+address: "507 Pressler St."
+url: http://tacos-and-tequila.com/food/
+coordinates: 30.2727807, -97.7607629
+marker-symbol: restaurant
+---
+name: ThunderCloud
+price: $
+coordinates: 30.267347, -97.749461
+marker-symbol: fast-food
+---
+name: Turf N Surf
+price: $$
+coordinates: 30.267206, -97.745593
+marker-symbol: fast-food
+---
+name: Wahoo's
+price: $
+coordinates: 30.269584, -97.749494
+marker-symbol: restaurant
+---
+name: Walton's
+price: $$
+coordinates: 30.269647, -97.748999
 marker-symbol: restaurant
 ---
 name: Whole Foods
@@ -38,6 +111,11 @@ name: Valentina's Tex Mex BBQ
 price: $$
 url: http://www.valentinastexmexbbq.com/menu.html
 coordinates: 30.270016, -97.748495
+marker-symbol: restaurant
+---
+name: Z'Tejas
+price: $$
+coordinates: 30.272563, -97.756055
 marker-symbol: restaurant
 ---
 name: Zeek's
