@@ -5,45 +5,18 @@
 #   $$   < $15
 #   $$$  < $25
 ---
-name: The Texas Tribune
+name: TabbedOut
+address: "1135 W. 6th Ave"
 coordinates: 30.27045435, -97.7414384914151
-marker-color: '#ffc200'
-marker-symbol: commercial
+marker-symbol: rocket
+marker-color: '#4db6ac'
 ---
-name: Athenian
+name: Tacos and Tequila
 price: $$
-coordinates: 30.268433, -97.743554
+address: "507 Pressler St."
+url: http://tacos-and-tequila.com/food/
+coordinates: 30.2727807, -97.7607629
 marker-symbol: restaurant
----
-name: Austin Java
-price: $$
-coordinates: 30.264931, -97.746858
-marker-symbol: restaurant
----
-name: Le Café Crêpe
-price: $$
-coordinates: 30.263842, -97.741907
-marker-symbol: restaurant
----
-name: Clay Pit
-price: $
-coordinates: 30.278967, -97.742427
-marker-symbol: restaurant
----
-name: Chipotle
-price: $
-coordinates: 30.270029, -97.741854
-marker-symbol: fast-food
----
-name: Daruma Ramen
-price: $$
-coordinates: 30.266467, -97.736473
-marker-symbol: restaurant
----
-name: EZ Tiger
-price: $$
-coordinates: 30.265906, -97.735663
-marker-symbol: beer
 ---
 name: Frank
 price: $$$
@@ -51,104 +24,24 @@ url: http://hotdogscoldbeer.com/austin/specials/
 coordinates: 30.266982, -97.744510
 marker-symbol: restaurant
 ---
-name: Jimmy John's
-price: $
-coordinates: 30.270792, -97.742244
-marker-symbol: fast-food
----
-name: Jo's
-price: $$
-coordinates: 30.265006, -97.746042
-marker-symbol: restaurant
----
-name: Kebebalicious
-price: $
-coordinates: 30.268845, -97.742385
-marker-symbol: fast-food
----
-name: Koriente
-price: $$
-coordinates: 30.267046, -97.736011
-marker-symbol: restaurant
----
 name: Lambert's
 price: $$$
 coordinates: 30.265172, -97.747915
 marker-symbol: restaurant
----
-name: Mama Fu's
-price: $$
-coordinates: 30.264001, -97.746013
-marker-symbol: restaurant
----
-name: My Thai Mom
-price: $
-url: https://www.facebook.com/MyThaiMom
-coordinates: 30.272028, -97.741622
-marker-symbol: fast-food
----
-name: Perry's Steakhouse
-price: $$
-coordinates: 30.269443, -97.743490
-marker-symbol: restaurant
----
-name: Quiznos
-price: $
-coordinates: 30.271713, -97.741679
-marker-symbol: fast-food
----
-name: Roaring Fork
-price: $$$
-coordinates: 30.269112, -97.742199
-marker-symbol: restaurant
----
-name: Royal Blue Grocery
-price: $$
-coordinates: 30.268389, -97.742473
-marker-symbol: grocery
----
-name: Second Bar + Kitchen
-price: $$$
-coordinates: 30.264554, -97.744392
-marker-symbol: restaurant
----
-name: Slake
-price: $$
-coordinates: 30.268834, -97.741373
-marker-symbol: fast-food
----
-name: St. David's
-price: $
-coordinates: 30.268414, -97.739216
-marker-symbol: restaurant
----
-name: Texas Chili Parlor
-price: $$
-coordinates: 30.277003, -97.741971
-marker-symbol: restaurant
----
-name: Thundercloud Subs
-price: $
-url: http://thundercloud.com/
-coordinates: 30.267528, -97.749378
-marker-symbol: fast-food
----
-name: Turn N Surf
-price: $$
-coordinates: 30.267206, -97.745593
-marker-symbol: fast-food
 ---
 name: Whole Foods
 price: $$
 coordinates: 30.270855, -97.753377
 marker-symbol: grocery
 ---
-name: Wholly cow Burgers
-price: $$
-coordinates: 30.268688, -97.742355
-marker-symbol: fast-food
----
 name: Valentina's Tex Mex BBQ
 price: $$
+url: http://www.valentinastexmexbbq.com/menu.html
 coordinates: 30.270016, -97.748495
+marker-symbol: restaurant
+---
+name: Zeek's
+price: $$
+url: http://zeeksonsixth.com/#menu
+coordinates: 30.273325, -97.759483
 marker-symbol: restaurant
