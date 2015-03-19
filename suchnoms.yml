@@ -62,6 +62,11 @@ price: $
 coordinates: 30.269775, -97.748198
 marker-symbol: fast-food
 ---
+name: P. Terry's
+price: $
+coordinates: 30.261571, -97.758512
+marker-symbol: fast-food
+---
 name: Shoal Creek Saloon
 coordinates: 30.274297, -97.752309
 marker-symbol: restaurant
@@ -73,7 +78,7 @@ marker-symbol: restaurant
 name: Swedish Hill
 price: $
 coordinates: 30.272702, -97.756443
-marker-symbol: baker
+marker-symbol: bakery
 ---
 name: Tacos and Tequila
 price: $$

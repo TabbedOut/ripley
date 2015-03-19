@@ -171,6 +171,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "P. Terry's",
+        "price": "$",
+        "marker-symbol": "fast-food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.758512",
+          "30.261571"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Shoal Creek Saloon",
         "marker-symbol": "restaurant"
       },
@@ -201,7 +216,7 @@
       "properties": {
         "name": "Swedish Hill",
         "price": "$",
-        "marker-symbol": "baker"
+        "marker-symbol": "bakery"
       },
       "geometry": {
         "type": "Point",
