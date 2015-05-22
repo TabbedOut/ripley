@@ -111,6 +111,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "House Park BBQ",
+        "price": "$$",
+        "marker-symbol": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.750422",
+          "30.276722"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Hut's Hamburgers",
         "price": "$",
         "marker-symbol": "fast-food"
@@ -156,6 +171,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Mighty Dogs",
+        "price": "$",
+        "marker-symbol": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.759318",
+          "30.271453"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "One Taco",
         "price": "$",
         "marker-symbol": "fast-food"
@@ -180,6 +210,21 @@
         "coordinates": [
           "-97.758512",
           "30.261571"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rounders Pizzeria",
+        "price": "$$",
+        "marker-symbol": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.757995",
+          "30.272854"
         ]
       }
     },
