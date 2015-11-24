@@ -112,7 +112,7 @@
       "type": "Feature",
       "properties": {
         "name": "House Park BBQ",
-        "price": "$$",
+        "price": "$",
         "marker-symbol": "restaurant"
       },
       "geometry": {
@@ -120,21 +120,6 @@
         "coordinates": [
           "-97.750422",
           "30.276722"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Hut's Hamburgers",
-        "price": "$",
-        "marker-symbol": "fast-food"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-97.751165",
-          "30.270259"
         ]
       }
     },
@@ -150,21 +135,6 @@
         "coordinates": [
           "-97.747915",
           "30.265172"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Lucky's Puccias (trailer)",
-        "price": "$",
-        "marker-symbol": "fast-food"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-97.752708",
-          "30.269575"
         ]
       }
     },
@@ -366,9 +336,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Valentina's Tex Mex BBQ",
+        "name": "Violet Taco",
         "price": "$$",
-        "url": "http://www.valentinastexmexbbq.com/menu.html",
         "marker-symbol": "restaurant"
       },
       "geometry": {
@@ -391,22 +360,6 @@
         "coordinates": [
           "-97.756055",
           "30.272563"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Zeek's",
-        "price": "$$",
-        "url": "http://zeeksonsixth.com/#menu",
-        "marker-symbol": "restaurant"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-97.759483",
-          "30.273325"
         ]
       }
     }
