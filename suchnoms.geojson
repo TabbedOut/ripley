@@ -80,6 +80,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "El Arroyo",
+        "price": "$",
+        "marker-symbol": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.764443",
+          "30.274913"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Frank",
         "price": "$$$",
         "url": "http://hotdogscoldbeer.com/austin/specials/",
@@ -111,21 +126,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "House Park BBQ",
-        "price": "$",
-        "marker-symbol": "restaurant"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-97.750422",
-          "30.276722"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Lambert's",
         "price": "$$$",
         "marker-symbol": "restaurant"
@@ -141,15 +141,30 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mighty Dogs",
-        "price": "$",
+        "name": "Mean Eyed Cat",
+        "price": "$$",
         "marker-symbol": "restaurant"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-97.759318",
-          "30.271453"
+          "-97.765008",
+          "30.274510"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nau's Enfield Drug",
+        "price": "$",
+        "marker-symbol": "fast-food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.758977",
+          "30.279912"
         ]
       }
     },
@@ -255,6 +270,21 @@
         "coordinates": [
           "-97.7607629",
           "30.2727807"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terry Black's Barbecue",
+        "price": "$$",
+        "marker-symbol": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.754822",
+          "30.259663"
         ]
       }
     },

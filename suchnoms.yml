@@ -31,6 +31,11 @@ price: $$
 coordinates: 30.272587, -97.753656
 marker-symbol: fast-food
 ---
+name: El Arroyo
+price: $
+coordinates: 30.274913, -97.764443
+marker-symbol: restaurant
+---
 name: Frank
 price: $$$
 url: http://hotdogscoldbeer.com/austin/specials/
@@ -42,20 +47,20 @@ price: $$
 coordinates: 30.274473, -97.752202
 marker-symbol: fast-food
 ---
-name: House Park BBQ
-price: $
-coordinates: 30.276722, -97.750422
-marker-symbol: restaurant
----
 name: Lambert's
 price: $$$
 coordinates: 30.265172, -97.747915
 marker-symbol: restaurant
 ---
-name: Mighty Dogs
-price: $
-coordinates: 30.271453, -97.759318
+name: Mean Eyed Cat
+price: $$
+coordinates: 30.274510, -97.765008
 marker-symbol: restaurant
+---
+name: Nau's Enfield Drug
+price: $
+coordinates: 30.279912, -97.758977
+marker-symbol: fast-food
 ---
 name: One Taco
 price: $
@@ -90,6 +95,11 @@ price: $$
 address: "507 Pressler St."
 url: http://tacos-and-tequila.com/food/
 coordinates: 30.2727807, -97.7607629
+marker-symbol: restaurant
+---
+name: Terry Black's Barbecue
+price: $$
+coordinates: 30.259663, -97.754822
 marker-symbol: restaurant
 ---
 name: ThunderCloud
