@@ -21,6 +21,11 @@ price: $$
 coordinates: 30.268433, -97.743554
 marker-symbol: restaurant
 ---
+name: Austin's Habibi
+price: $
+coordinates: 30.269505, -97.752914
+marker-symbol: restaurant
+---
 name: Bacon
 price: $$
 coordinates: 30.275006, -97.751687
@@ -52,6 +57,11 @@ price: $$$
 coordinates: 30.265172, -97.747915
 marker-symbol: restaurant
 ---
+name: Lucky's
+price: $$
+coordinates: 30.273674, -97.763621
+marker-symbol: restaurant
+---
 name: Mean Eyed Cat
 price: $$
 coordinates: 30.274510, -97.765008
@@ -81,6 +91,11 @@ name: Shoal Creek Saloon
 coordinates: 30.274297, -97.752309
 marker-symbol: restaurant
 ---
+name: Super Burrito
+price: $
+coordinates: 30.269528, -97.752719
+marker-symbol: restaurant
+---
 name: Sushi Zushi
 coordinates: 30.274152, -97.764370
 marker-symbol: restaurant
@@ -106,6 +121,10 @@ name: ThunderCloud
 price: $
 coordinates: 30.267347, -97.749461
 marker-symbol: fast-food
+---
+name: Trader Joe's
+coordinates: 30.267684, -97.752752
+marker-symbol: grocery
 ---
 name: Turf N Surf
 price: $$

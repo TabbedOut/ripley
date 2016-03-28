@@ -50,6 +50,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Austin's Habibi",
+        "price": "$",
+        "marker-symbol": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.752914",
+          "30.269505"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Bacon",
         "price": "$$",
         "marker-symbol": "restaurant"
@@ -135,6 +150,21 @@
         "coordinates": [
           "-97.747915",
           "30.265172"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lucky's",
+        "price": "$$",
+        "marker-symbol": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.763621",
+          "30.273674"
         ]
       }
     },
@@ -230,6 +260,21 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Super Burrito",
+        "price": "$",
+        "marker-symbol": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.752719",
+          "30.269528"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Sushi Zushi",
         "marker-symbol": "restaurant"
       },
@@ -300,6 +345,20 @@
         "coordinates": [
           "-97.749461",
           "30.267347"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trader Joe's",
+        "marker-symbol": "grocery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-97.752752",
+          "30.267684"
         ]
       }
     },
