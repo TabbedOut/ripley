@@ -1,9 +1,14 @@
-build:
-	ruby ripley.rb | jsonpp > suchnoms.geojson
+help: ## Shows this help
+	@echo "$$(grep -h '#\{2\}' $(MAKEFILE_LIST) | sed 's/: #\{2\} /	/' | column -t -s '	')"
 
-# If you don't have inotify-tools, install it first: `apt-get install inotify-tools`
+install: ## Install requirements
+	brew install jq
+	npm install -g nodemon
+
+build:
+	ruby ripley.rb | jq --raw-output "." > suchnoms.geojson
+
 watch:
-	@while true; do \
-	inotifywait  -e modify -e move -e create -e delete \
-	suchnoms.yml && $(MAKE) --silent build; \
-	done
+	nodemon --ext yml --exec "$(MAKE) --silent build"
+
+dev: build watch
