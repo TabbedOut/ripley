@@ -5,15 +5,14 @@
       "type": "Feature",
       "properties": {
         "name": "TabbedOut",
-        "address": "1135 W. 6th Ave",
         "marker-symbol": "rocket",
         "marker-color": "#4db6ac"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-97.757662",
-          "30.272377"
+          "-97.758251",
+          "30.273646"
         ]
       }
     },
