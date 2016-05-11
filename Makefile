@@ -5,8 +5,11 @@ install: ## Install requirements
 	brew install jq
 	npm install -g nodemon
 
-build:
-	ruby ripley.rb | jq --raw-output "." > suchnoms.geojson
+build: ## Build geojson
+build: suchnoms.geojson
+
+suchnoms.geojson: suchnoms.yml
+	ruby ripley.rb | jq --raw-output "." > $@
 
 watch:
 	nodemon --ext yml --exec "$(MAKE) --silent build"
